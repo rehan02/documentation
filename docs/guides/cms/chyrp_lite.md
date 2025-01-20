@@ -30,7 +30,7 @@ dnf -y install epel-release && dnf -y update
 Then install Caddy:
 
 ```bash
-dnf -y install Caddy
+dnf -y install caddy
 ```
 
 Subsequently, open the `Caddyfile`:
